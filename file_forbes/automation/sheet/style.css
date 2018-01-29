@@ -1,0 +1,11 @@
+.result{
+	border: 1px solid blue;
+	text-align: left;
+	background-color: yellow;
+	font-size: 15px;
+	font-weight: bold;
+	padding-left: 25px;	
+	padding-right: 25px;	
+	padding-top: 10px;	
+	padding-bottom: 10px;	
+}
